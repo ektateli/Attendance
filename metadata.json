@@ -1,0 +1,5 @@
+{
+  "name": "AttendancePro - Full Stack Attendance Management System",
+  "description": "A comprehensive full-stack application for managing student and teacher attendance with role-based dashboards, class management, and real-time reporting.",
+  "requestFramePermissions": []
+}
